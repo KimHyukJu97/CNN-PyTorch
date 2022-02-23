@@ -1,1 +1,1 @@
-# CNN_PyTorch
+# CNN PyTorch
